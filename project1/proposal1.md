@@ -25,7 +25,7 @@ https://wonder.cdc.gov/controller/datarequest/D140;jsessionid=A6D2C355451B5F7AA0
 
 I should use these datasets solely for research or statistical purposes and not for re-identification of specific research subjects, and I should make no use of the identity of any research subject discovered inadvertently and report any such discovery to the Center for Behavioral Health Statistics and Quality (CBHSQ) and to the Substance Abuse and Mental Health Data Archive (SAMHDA) to the SAMHDA Help Desk. If I have any publications that use Substance Abuse and Mental Health Services Administration (SAMHSA) data, I need to reference the recommended bibliographic citation.
 
-__Link to estrictions on data usage:__
+__Link to restrictions on data usage:__
 
 https://www.datafiles.samhsa.gov/info/terms-use-nid3422
 
