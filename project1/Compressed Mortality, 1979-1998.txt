@@ -1,0 +1,315 @@
+"Notes"	"Year"	"Year Code"	"Age Group"	"Age Group Code"	Deaths	Population	Crude Rate
+	"1979"	"1979"	"< 1 year"	"1"	4	3494398	0.1 (Unreliable)
+	"1979"	"1979"	"1-4 years"	"1-4"	9	12637000	0.1 (Unreliable)
+	"1979"	"1979"	"5-9 years"	"5-9"	1	16947000	0.0 (Unreliable)
+	"1979"	"1979"	"10-14 years"	"10-14"	1	18445000	0.0 (Unreliable)
+	"1979"	"1979"	"15-19 years"	"15-19"	18	21348000	0.1 (Unreliable)
+	"1979"	"1979"	"20-24 years"	"20-24"	76	21096000	0.4
+	"1979"	"1979"	"25-34 years"	"25-34"	188	36038000	0.5
+	"1979"	"1979"	"35-44 years"	"35-44"	61	25114000	0.2
+	"1979"	"1979"	"45-54 years"	"45-54"	28	22935000	0.1
+	"1979"	"1979"	"55-64 years"	"55-64"	34	21448000	0.2
+	"1979"	"1979"	"65-74 years"	"65-74"	11	15338000	0.1 (Unreliable)
+	"1979"	"1979"	"75-84 years"	"75-84"	10	7598000	0.1 (Unreliable)
+	"1979"	"1979"	"85+ years"	"85+"	3	2197000	0.1 (Unreliable)
+	"1979"	"1979"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"1979"	"1979"			445	224635398	0.2
+	"1980"	"1980"	"< 1 year"	"1"	7	3612258	0.2 (Unreliable)
+	"1980"	"1980"	"1-4 years"	"1-4"	7	12814562	0.1 (Unreliable)
+	"1980"	"1980"	"5-9 years"	"5-9"	1	16699956	0.0 (Unreliable)
+	"1980"	"1980"	"10-14 years"	"10-14"	1	18242129	0.0 (Unreliable)
+	"1980"	"1980"	"15-19 years"	"15-19"	11	21168124	0.1 (Unreliable)
+	"1980"	"1980"	"20-24 years"	"20-24"	60	21318704	0.3
+	"1980"	"1980"	"25-34 years"	"25-34"	177	37081839	0.5
+	"1980"	"1980"	"35-44 years"	"35-44"	67	25634710	0.3
+	"1980"	"1980"	"45-54 years"	"45-54"	33	22799787	0.1
+	"1980"	"1980"	"55-64 years"	"55-64"	23	21702875	0.1
+	"1980"	"1980"	"65-74 years"	"65-74"	18	15580605	0.1 (Unreliable)
+	"1980"	"1980"	"75-84 years"	"75-84"	11	7728755	0.1 (Unreliable)
+	"1980"	"1980"	"85+ years"	"85+"	2	2240067	0.1 (Unreliable)
+"Total"	"1980"	"1980"			418	226624371	0.2
+	"1981"	"1981"	"< 1 year"	"1"	2	3629238	0.1 (Unreliable)
+	"1981"	"1981"	"1-4 years"	"1-4"	5	13285279	0.0 (Unreliable)
+	"1981"	"1981"	"5-9 years"	"5-9"	1	16060121	0.0 (Unreliable)
+	"1981"	"1981"	"10-14 years"	"10-14"	2	18300407	0.0 (Unreliable)
+	"1981"	"1981"	"15-19 years"	"15-19"	12	20540557	0.1 (Unreliable)
+	"1981"	"1981"	"20-24 years"	"20-24"	67	21662844	0.3
+	"1981"	"1981"	"25-34 years"	"25-34"	231	38900521	0.6
+	"1981"	"1981"	"35-44 years"	"35-44"	82	26394390	0.3
+	"1981"	"1981"	"45-54 years"	"45-54"	52	22579535	0.2
+	"1981"	"1981"	"55-64 years"	"55-64"	28	21913823	0.1
+	"1981"	"1981"	"65-74 years"	"65-74"	16	15889870	0.1 (Unreliable)
+	"1981"	"1981"	"75-84 years"	"75-84"	13	7981752	0.2 (Unreliable)
+	"1981"	"1981"	"85+ years"	"85+"	3	2349175	0.1 (Unreliable)
+"Total"	"1981"	"1981"			514	229487512	0.2
+	"1982"	"1982"	"< 1 year"	"1"	1	3680537	0.0 (Unreliable)
+	"1982"	"1982"	"1-4 years"	"1-4"	6	13584259	0.0 (Unreliable)
+	"1982"	"1982"	"15-19 years"	"15-19"	16	19961684	0.1 (Unreliable)
+	"1982"	"1982"	"20-24 years"	"20-24"	81	21682133	0.4
+	"1982"	"1982"	"25-34 years"	"25-34"	321	39417256	0.8
+	"1982"	"1982"	"35-44 years"	"35-44"	102	28030350	0.4
+	"1982"	"1982"	"45-54 years"	"45-54"	61	22425309	0.3
+	"1982"	"1982"	"55-64 years"	"55-64"	33	22029893	0.1
+	"1982"	"1982"	"65-74 years"	"65-74"	24	16147900	0.1
+	"1982"	"1982"	"75-84 years"	"75-84"	14	8202874	0.2 (Unreliable)
+	"1982"	"1982"	"85+ years"	"85+"	3	2436707	0.1 (Unreliable)
+"Total"	"1982"	"1982"			662	231701425	0.3
+	"1983"	"1983"	"1-4 years"	"1-4"	10	13897699	0.1 (Unreliable)
+	"1983"	"1983"	"10-14 years"	"10-14"	1	17868526	0.0 (Unreliable)
+	"1983"	"1983"	"15-19 years"	"15-19"	9	19387961	0.0 (Unreliable)
+	"1983"	"1983"	"20-24 years"	"20-24"	57	21632283	0.3
+	"1983"	"1983"	"25-34 years"	"25-34"	272	40207757	0.7
+	"1983"	"1983"	"35-44 years"	"35-44"	135	29267307	0.5
+	"1983"	"1983"	"45-54 years"	"45-54"	57	22355471	0.3
+	"1983"	"1983"	"55-64 years"	"55-64"	33	22111882	0.1
+	"1983"	"1983"	"65-74 years"	"65-74"	28	16413436	0.2
+	"1983"	"1983"	"75-84 years"	"75-84"	12	8428802	0.1 (Unreliable)
+	"1983"	"1983"	"85+ years"	"85+"	7	2518435	0.3 (Unreliable)
+	"1983"	"1983"	"Not Stated"	"NS"	2	Not Applicable	Not Applicable
+"Total"	"1983"	"1983"			623	233781743	0.3
+	"1984"	"1984"	"< 1 year"	"1"	4	3669141	0.1 (Unreliable)
+	"1984"	"1984"	"1-4 years"	"1-4"	5	14123004	0.0 (Unreliable)
+	"1984"	"1984"	"15-19 years"	"15-19"	8	18930631	0.0 (Unreliable)
+	"1984"	"1984"	"20-24 years"	"20-24"	60	21529383	0.3
+	"1984"	"1984"	"25-34 years"	"25-34"	384	40961753	0.9
+	"1984"	"1984"	"35-44 years"	"35-44"	156	30502933	0.5
+	"1984"	"1984"	"45-54 years"	"45-54"	55	22385423	0.2
+	"1984"	"1984"	"55-64 years"	"55-64"	25	22154167	0.1
+	"1984"	"1984"	"65-74 years"	"65-74"	20	16626589	0.1
+	"1984"	"1984"	"75-84 years"	"75-84"	14	8656277	0.2 (Unreliable)
+	"1984"	"1984"	"85+ years"	"85+"	3	2594641	0.1 (Unreliable)
+"Total"	"1984"	"1984"			734	235922142	0.3
+	"1985"	"1985"	"1-4 years"	"1-4"	3	14162980	0.0 (Unreliable)
+	"1985"	"1985"	"15-19 years"	"15-19"	12	18727238	0.1 (Unreliable)
+	"1985"	"1985"	"20-24 years"	"20-24"	83	21264605	0.4
+	"1985"	"1985"	"25-34 years"	"25-34"	453	41696423	1.1
+	"1985"	"1985"	"35-44 years"	"35-44"	264	31691014	0.8
+	"1985"	"1985"	"45-54 years"	"45-54"	64	22459304	0.3
+	"1985"	"1985"	"55-64 years"	"55-64"	41	22135121	0.2
+	"1985"	"1985"	"65-74 years"	"65-74"	24	16858660	0.1
+	"1985"	"1985"	"75-84 years"	"75-84"	18	8890247	0.2 (Unreliable)
+	"1985"	"1985"	"85+ years"	"85+"	4	2667272	0.1 (Unreliable)
+"Total"	"1985"	"1985"			966	238005715	0.4
+	"1986"	"1986"	"1-4 years"	"1-4"	4	14262949	0.0 (Unreliable)
+	"1986"	"1986"	"5-9 years"	"5-9"	1	17098398	0.0 (Unreliable)
+	"1986"	"1986"	"10-14 years"	"10-14"	1	16474234	0.0 (Unreliable)
+	"1986"	"1986"	"15-19 years"	"15-19"	15	18812575	0.1 (Unreliable)
+	"1986"	"1986"	"20-24 years"	"20-24"	72	20744059	0.3
+	"1986"	"1986"	"25-34 years"	"25-34"	480	42371710	1.1
+	"1986"	"1986"	"35-44 years"	"35-44"	308	33008995	0.9
+	"1986"	"1986"	"45-54 years"	"45-54"	74	22658927	0.3
+	"1986"	"1986"	"55-64 years"	"55-64"	33	21993891	0.2
+	"1986"	"1986"	"65-74 years"	"65-74"	29	17137259	0.2
+	"1986"	"1986"	"75-84 years"	"75-84"	16	9128290	0.2 (Unreliable)
+	"1986"	"1986"	"85+ years"	"85+"	2	2742048	0.1 (Unreliable)
+	"1986"	"1986"	"Not Stated"	"NS"	3	Not Applicable	Not Applicable
+"Total"	"1986"	"1986"			1038	240189882	0.4
+	"1987"	"1987"	"< 1 year"	"1"	1	3809394	0.0 (Unreliable)
+	"1987"	"1987"	"1-4 years"	"1-4"	6	14348927	0.0 (Unreliable)
+	"1987"	"1987"	"5-9 years"	"5-9"	2	17430258	0.0 (Unreliable)
+	"1987"	"1987"	"15-19 years"	"15-19"	7	18698306	0.0 (Unreliable)
+	"1987"	"1987"	"20-24 years"	"20-24"	33	20191548	0.2
+	"1987"	"1987"	"25-34 years"	"25-34"	285	42840612	0.7
+	"1987"	"1987"	"35-44 years"	"35-44"	244	34226409	0.7
+	"1987"	"1987"	"45-54 years"	"45-54"	73	23095880	0.3
+	"1987"	"1987"	"55-64 years"	"55-64"	37	21750688	0.2
+	"1987"	"1987"	"65-74 years"	"65-74"	19	17426680	0.1 (Unreliable)
+	"1987"	"1987"	"75-84 years"	"75-84"	13	9376456	0.1 (Unreliable)
+	"1987"	"1987"	"85+ years"	"85+"	8	2823030	0.3 (Unreliable)
+	"1987"	"1987"	"Not Stated"	"NS"	4	Not Applicable	Not Applicable
+"Total"	"1987"	"1987"			732	242395034	0.3
+	"1988"	"1988"	"< 1 year"	"1"	1	3909510	0.0 (Unreliable)
+	"1988"	"1988"	"1-4 years"	"1-4"	2	14438889	0.0 (Unreliable)
+	"1988"	"1988"	"10-14 years"	"10-14"	1	16496237	0.0 (Unreliable)
+	"1988"	"1988"	"15-19 years"	"15-19"	9	18496341	0.0 (Unreliable)
+	"1988"	"1988"	"20-24 years"	"20-24"	34	19654537	0.2
+	"1988"	"1988"	"25-34 years"	"25-34"	335	43130133	0.8
+	"1988"	"1988"	"35-44 years"	"35-44"	343	35180436	1.0
+	"1988"	"1988"	"45-54 years"	"45-54"	86	23949248	0.4
+	"1988"	"1988"	"55-64 years"	"55-64"	51	21513721	0.2
+	"1988"	"1988"	"65-74 years"	"65-74"	28	17626305	0.2
+	"1988"	"1988"	"75-84 years"	"75-84"	17	9612042	0.2 (Unreliable)
+	"1988"	"1988"	"85+ years"	"85+"	7	2885260	0.2 (Unreliable)
+	"1988"	"1988"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"1988"	"1988"			915	244651961	0.4
+	"1989"	"1989"	"< 1 year"	"1"	4	4040958	0.1 (Unreliable)
+	"1989"	"1989"	"1-4 years"	"1-4"	4	14649632	0.0 (Unreliable)
+	"1989"	"1989"	"5-9 years"	"5-9"	1	17916793	0.0 (Unreliable)
+	"1989"	"1989"	"10-14 years"	"10-14"	1	16796836	0.0 (Unreliable)
+	"1989"	"1989"	"15-19 years"	"15-19"	15	18133103	0.1 (Unreliable)
+	"1989"	"1989"	"20-24 years"	"20-24"	47	19257656	0.2
+	"1989"	"1989"	"25-34 years"	"25-34"	372	43236388	0.9
+	"1989"	"1989"	"35-44 years"	"35-44"	432	36414452	1.2
+	"1989"	"1989"	"45-54 years"	"45-54"	108	24633190	0.4
+	"1989"	"1989"	"55-64 years"	"55-64"	46	21240998	0.2
+	"1989"	"1989"	"65-74 years"	"65-74"	19	17864102	0.1 (Unreliable)
+	"1989"	"1989"	"75-84 years"	"75-84"	14	9849910	0.1 (Unreliable)
+	"1989"	"1989"	"85+ years"	"85+"	11	2967744	0.4 (Unreliable)
+	"1989"	"1989"	"Not Stated"	"NS"	2	Not Applicable	Not Applicable
+"Total"	"1989"	"1989"			1076	247001762	0.4
+	"1990"	"1990"	"< 1 year"	"1"	1	4158212	0.0 (Unreliable)
+	"1990"	"1990"	"1-4 years"	"1-4"	5	14811673	0.0 (Unreliable)
+	"1990"	"1990"	"5-9 years"	"5-9"	1	18034778	0.0 (Unreliable)
+	"1990"	"1990"	"10-14 years"	"10-14"	3	17060469	0.0 (Unreliable)
+	"1990"	"1990"	"15-19 years"	"15-19"	17	17881711	0.1 (Unreliable)
+	"1990"	"1990"	"20-24 years"	"20-24"	47	19131578	0.2
+	"1990"	"1990"	"25-34 years"	"25-34"	343	43160726	0.8
+	"1990"	"1990"	"35-44 years"	"35-44"	438	37434767	1.2
+	"1990"	"1990"	"45-54 years"	"45-54"	96	25056650	0.4
+	"1990"	"1990"	"55-64 years"	"55-64"	49	21112652	0.2
+	"1990"	"1990"	"65-74 years"	"65-74"	21	18045495	0.1
+	"1990"	"1990"	"75-84 years"	"75-84"	12	10011975	0.1 (Unreliable)
+	"1990"	"1990"	"85+ years"	"85+"	6	3021425	0.2 (Unreliable)
+	"1990"	"1990"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"1990"	"1990"			1040	248922111	0.4
+	"1991"	"1991"	"< 1 year"	"1"	1	4110907	0.0 (Unreliable)
+	"1991"	"1991"	"1-4 years"	"1-4"	4	15204266	0.0 (Unreliable)
+	"1991"	"1991"	"5-9 years"	"5-9"	4	18281130	0.0 (Unreliable)
+	"1991"	"1991"	"15-19 years"	"15-19"	7	17270280	0.0 (Unreliable)
+	"1991"	"1991"	"20-24 years"	"20-24"	44	19234425	0.2
+	"1991"	"1991"	"25-34 years"	"25-34"	330	43224002	0.8
+	"1991"	"1991"	"35-44 years"	"35-44"	406	39329466	1.0
+	"1991"	"1991"	"45-54 years"	"45-54"	102	25820152	0.4
+	"1991"	"1991"	"55-64 years"	"55-64"	51	21045861	0.2
+	"1991"	"1991"	"65-74 years"	"65-74"	26	18293904	0.1
+	"1991"	"1991"	"75-84 years"	"75-84"	16	10328581	0.2 (Unreliable)
+	"1991"	"1991"	"85+ years"	"85+"	5	3189139	0.2 (Unreliable)
+	"1991"	"1991"	"Not Stated"	"NS"	4	Not Applicable	Not Applicable
+"Total"	"1991"	"1991"			1000	253088068	0.4
+	"1992"	"1992"	"< 1 year"	"1"	1	4065014	0.0 (Unreliable)
+	"1992"	"1992"	"1-4 years"	"1-4"	1	15555266	0.0 (Unreliable)
+	"1992"	"1992"	"10-14 years"	"10-14"	2	18245763	0.0 (Unreliable)
+	"1992"	"1992"	"15-19 years"	"15-19"	17	17246240	0.1 (Unreliable)
+	"1992"	"1992"	"20-24 years"	"20-24"	60	19188002	0.3
+	"1992"	"1992"	"25-34 years"	"25-34"	404	42996970	0.9
+	"1992"	"1992"	"35-44 years"	"35-44"	621	39976334	1.6
+	"1992"	"1992"	"45-54 years"	"45-54"	184	27547718	0.7
+	"1992"	"1992"	"55-64 years"	"55-64"	62	20998058	0.3
+	"1992"	"1992"	"65-74 years"	"65-74"	21	18486019	0.1
+	"1992"	"1992"	"75-84 years"	"75-84"	18	10555315	0.2 (Unreliable)
+	"1992"	"1992"	"85+ years"	"85+"	9	3314660	0.3 (Unreliable)
+	"1992"	"1992"	"Not Stated"	"NS"	4	Not Applicable	Not Applicable
+"Total"	"1992"	"1992"			1404	256606463	0.5
+	"1993"	"1993"	"< 1 year"	"1"	5	4000240	0.1 (Unreliable)
+	"1993"	"1993"	"1-4 years"	"1-4"	5	15835084	0.0 (Unreliable)
+	"1993"	"1993"	"5-9 years"	"5-9"	3	18645956	0.0 (Unreliable)
+	"1993"	"1993"	"10-14 years"	"10-14"	3	18721403	0.0 (Unreliable)
+	"1993"	"1993"	"15-19 years"	"15-19"	12	17473853	0.1 (Unreliable)
+	"1993"	"1993"	"20-24 years"	"20-24"	93	18989924	0.5
+	"1993"	"1993"	"25-34 years"	"25-34"	489	42652396	1.1
+	"1993"	"1993"	"35-44 years"	"35-44"	889	40911550	2.2
+	"1993"	"1993"	"45-54 years"	"45-54"	248	28863949	0.9
+	"1993"	"1993"	"55-64 years"	"55-64"	66	21028471	0.3
+	"1993"	"1993"	"65-74 years"	"65-74"	23	18692619	0.1
+	"1993"	"1993"	"75-84 years"	"75-84"	20	10763626	0.2
+	"1993"	"1993"	"85+ years"	"85+"	5	3445566	0.1 (Unreliable)
+	"1993"	"1993"	"Not Stated"	"NS"	2	Not Applicable	Not Applicable
+"Total"	"1993"	"1993"			1863	260024637	0.7
+	"1994"	"1994"	"< 1 year"	"1"	2	3952767	0.1 (Unreliable)
+	"1994"	"1994"	"1-4 years"	"1-4"	4	15939749	0.0 (Unreliable)
+	"1994"	"1994"	"5-9 years"	"5-9"	2	19024679	0.0 (Unreliable)
+	"1994"	"1994"	"10-14 years"	"10-14"	1	19001286	0.0 (Unreliable)
+	"1994"	"1994"	"15-19 years"	"15-19"	18	17875809	0.1 (Unreliable)
+	"1994"	"1994"	"20-24 years"	"20-24"	86	18656064	0.5
+	"1994"	"1994"	"25-34 years"	"25-34"	461	42329554	1.1
+	"1994"	"1994"	"35-44 years"	"35-44"	869	41818866	2.1
+	"1994"	"1994"	"45-54 years"	"45-54"	302	30152761	1.0
+	"1994"	"1994"	"55-64 years"	"55-64"	66	21159137	0.3
+	"1994"	"1994"	"65-74 years"	"65-74"	19	18789791	0.1 (Unreliable)
+	"1994"	"1994"	"75-84 years"	"75-84"	15	10979980	0.1 (Unreliable)
+	"1994"	"1994"	"85+ years"	"85+"	13	3561032	0.4 (Unreliable)
+	"1994"	"1994"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"1994"	"1994"			1859	263241475	0.7
+	"1995"	"1995"	"< 1 year"	"1"	1	3899589	0.0 (Unreliable)
+	"1995"	"1995"	"1-4 years"	"1-4"	5	15835119	0.0 (Unreliable)
+	"1995"	"1995"	"5-9 years"	"5-9"	1	19438171	0.0 (Unreliable)
+	"1995"	"1995"	"10-14 years"	"10-14"	1	19207049	0.0 (Unreliable)
+	"1995"	"1995"	"15-19 years"	"15-19"	23	18373998	0.1
+	"1995"	"1995"	"20-24 years"	"20-24"	122	18300214	0.7
+	"1995"	"1995"	"25-34 years"	"25-34"	528	42052123	1.3
+	"1995"	"1995"	"35-44 years"	"35-44"	998	42710768	2.3
+	"1995"	"1995"	"45-54 years"	"45-54"	423	31480239	1.3
+	"1995"	"1995"	"55-64 years"	"55-64"	80	21320022	0.4
+	"1995"	"1995"	"65-74 years"	"65-74"	27	18866088	0.1
+	"1995"	"1995"	"75-84 years"	"75-84"	18	11222494	0.2 (Unreliable)
+	"1995"	"1995"	"85+ years"	"85+"	7	3680722	0.2 (Unreliable)
+	"1995"	"1995"	"Not Stated"	"NS"	3	Not Applicable	Not Applicable
+"Total"	"1995"	"1995"			2237	266386596	0.8
+	"1996"	"1996"	"< 1 year"	"1"	1	3891494	0.0 (Unreliable)
+	"1996"	"1996"	"1-4 years"	"1-4"	5	15663273	0.0 (Unreliable)
+	"1996"	"1996"	"10-14 years"	"10-14"	6	19435109	0.0 (Unreliable)
+	"1996"	"1996"	"15-19 years"	"15-19"	35	18920160	0.2
+	"1996"	"1996"	"20-24 years"	"20-24"	116	17876645	0.6
+	"1996"	"1996"	"25-34 years"	"25-34"	486	41809305	1.2
+	"1996"	"1996"	"35-44 years"	"35-44"	941	43551263	2.2
+	"1996"	"1996"	"45-54 years"	"45-54"	451	32799965	1.4
+	"1996"	"1996"	"55-64 years"	"55-64"	84	21589986	0.4
+	"1996"	"1996"	"65-74 years"	"65-74"	38	18824488	0.2
+	"1996"	"1996"	"75-84 years"	"75-84"	29	11523669	0.3
+	"1996"	"1996"	"85+ years"	"85+"	8	3794892	0.2 (Unreliable)
+	"1996"	"1996"	"Not Stated"	"NS"	2	Not Applicable	Not Applicable
+"Total"	"1996"	"1996"			2202	269540779	0.8
+	"1997"	"1997"	"1-4 years"	"1-4"	3	15481530	0.0 (Unreliable)
+	"1997"	"1997"	"5-9 years"	"5-9"	2	20254032	0.0 (Unreliable)
+	"1997"	"1997"	"10-14 years"	"10-14"	3	19600697	0.0 (Unreliable)
+	"1997"	"1997"	"15-19 years"	"15-19"	67	19397691	0.3
+	"1997"	"1997"	"20-24 years"	"20-24"	140	17910076	0.8
+	"1997"	"1997"	"25-34 years"	"25-34"	544	41344963	1.3
+	"1997"	"1997"	"35-44 years"	"35-44"	1051	44228415	2.4
+	"1997"	"1997"	"45-54 years"	"45-54"	542	34177508	1.6
+	"1997"	"1997"	"55-64 years"	"55-64"	101	22099311	0.5
+	"1997"	"1997"	"65-74 years"	"65-74"	28	18683874	0.1
+	"1997"	"1997"	"75-84 years"	"75-84"	17	11812211	0.1 (Unreliable)
+	"1997"	"1997"	"85+ years"	"85+"	7	3905476	0.2 (Unreliable)
+	"1997"	"1997"	"Not Stated"	"NS"	6	Not Applicable	Not Applicable
+"Total"	"1997"	"1997"			2511	272776678	0.9
+	"1998"	"1998"	"1-4 years"	"1-4"	7	15382114	0.0 (Unreliable)
+	"1998"	"1998"	"5-9 years"	"5-9"	4	20510328	0.0 (Unreliable)
+	"1998"	"1998"	"10-14 years"	"10-14"	3	19825181	0.0 (Unreliable)
+	"1998"	"1998"	"15-19 years"	"15-19"	68	19839732	0.3
+	"1998"	"1998"	"20-24 years"	"20-24"	189	18167103	1.0
+	"1998"	"1998"	"25-34 years"	"25-34"	578	40756512	1.4
+	"1998"	"1998"	"35-44 years"	"35-44"	1174	44748354	2.6
+	"1998"	"1998"	"45-54 years"	"45-54"	646	35231857	1.8
+	"1998"	"1998"	"55-64 years"	"55-64"	119	23010955	0.5
+	"1998"	"1998"	"65-74 years"	"65-74"	29	18570247	0.2
+	"1998"	"1998"	"75-84 years"	"75-84"	19	12016377	0.2 (Unreliable)
+	"1998"	"1998"	"85+ years"	"85+"	6	4032535	0.1 (Unreliable)
+	"1998"	"1998"	"Not Stated"	"NS"	2	Not Applicable	Not Applicable
+"Total"	"1998"	"1998"			2844	276032848	1.0
+"Total"					25083	4961016600	0.5
+"---"
+"Dataset: Compressed Mortality, 1979-1998"
+"Query Parameters:"
+"ICD-9 Codes: E850.0 (Opiates and related narcotics); E850.1 (Salicylates); E850.2 (Aromatic analgesics, not elsewhere"
+"classified)"
+"Group By: Year; Age Group"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Mar 2, 2019 11:45:21 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1979-1998. CDC WONDER On-line Database, compiled from Compressed Mortality File CMF 1968-1988, Series 20, No. 2A, 2000 and CMF"
+"1989-1998, Series 20, No. 2E, 2003. Accessed at http://wonder.cdc.gov/cmf-icd9.html on Mar 2, 2019 11:45:21 AM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the live births for the"
+"given time period. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. Population figures in this table for 1979 and 1981-89 are intercensal estimates of the July 1 resident population of the"
+"United States. Note that the state and county population estimates for these years are not consistent with national estimates."
+"The population figures in this table for 1980 and 1990 are modified age-race-sex (MARS) April 1 census counts. The population"
+"figures for 1991-98 are bridged-race intercensal estimates of the July 1 resident population."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated."
