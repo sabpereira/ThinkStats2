@@ -1,11 +1,11 @@
 # The Contribution of the Opioid Epidemic on the Falling Life Expectancy in the United States
 
-#### Sabrina Pereira
+Sabrina Pereira
 
 
 ## **Introduction**
 
-In recent years, a downward trend in the the Average Life Expectancy in the US has emerged.
+In recent years, a downward trend in the Average Life Expectancy in the US has emerged.
 
 ![](https://github.com/sabpereira/ThinkStats2/blob/master/project1/output_5_0.png)
 
@@ -25,25 +25,25 @@ To answer this question, I will be attempting to predict what the Average Life E
 
 ### Data Sources
 
-I will be using the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics (NCHS) data for Death rates and life expectancy at birth for the US (Available at https://data.cdc.gov/NCHS/NCHS-Death-rates-and-life-expectancy-at-birth/w9j2-ggv5 ). All further mentions of life expectancies or ALE will relate to the CDC's definition of life expectancy at birth. The Average Life Expectancy is a summary statistic taking account the death rates of various age groups over various years, giving us a snapshot of the health of the population of the US at a point in time.
+I will be using the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics (NCHS) data for Death rates and life expectancy at birth for the US (Available at https://data.cdc.gov/NCHS/NCHS-Death-rates-and-life-expectancy-at-birth/w9j2-ggv5 ). All further mentions of life expectancies or ALE will relate to the CDC's definition of life expectancy at birth. The Average Life Expectancy is a summary statistic taking account the death rates of various age groups over various years, giving us a snapshot of the health of the US population at a given point in time.
 
 
 I will also be using the CDC's Multiple Cause of Death Data for the years 1999-2017 (Available at https://wonder.cdc.gov/mcd.html ) to extract the population size and number of deaths in each age group in the US, as well as the total numbers of deaths due to opioid overdoses in each age group. To define deaths due to opioid overdoses, I used the CDC's definition of the ICD-10 codes that related to "All opioid poisoning" (the chart containing the codes fitting this definition is available at https://www.cdc.gov/drugoverdose/pdf/pdo_guide_to_icd-9-cm_and_icd-10_codes-a.pdf )
 
 In both datasets, populations were taken from the 2000 and 2010 Census data, and intercensal population estimates have been created for all other years.
 
-For more information on the data in the report and how it was organized, please refer to the [project’s notebook](https://github.com/sabpereira/ThinkStats2/blob/master/project1/project1.ipynb). 
+For more information on the data in the report and how it was organized, please refer to the [project’s notebook](https://github.com/sabpereira/ThinkStats2/blob/master/project1/project1.ipynb).
 
 
 ### Age-adjusted Death Rate Approach
 
 Recalculating the theoretical life expectancies by removing the effect of the opioid related deaths in order to quantify how much of the drop in life expectancy is explained by the opioid related deaths would be ideal, but it is a very complicated and involved calculation.
 
-Therefore, for simplifications, I will construct a model where I estimate the Average Life Expectancy for a year using the the Age-adjusted Death Rate for the same year. The AADR for the total population is much more easily calculated, and the ALE and the AADR for any given year are closely related - both are summary statistics that are calculated with the age-specific death rates of the population (the death rates for each age group).
+Therefore, for simplifications, I will construct a model where I estimate the Average Life Expectancy for a year using the Age-adjusted Death Rate for the same year. The AADR for the total population is much more easily calculated, and the ALE and the AADR for any given year are closely related - both are summary statistics that are calculated with the age-specific death rates of the population (the death rates for each age group).
 
 I will then be finding what the AADR for a year would look like in a Zero-Opioid Scenario (A theoretical scenario where any deaths related to opioid overdoses do not occur), and use the created model to estimate the theoretical ALE we would see without any opioid related deaths. To look at the calculation for this model and further design explanation, please refer to the [project’s notebook](https://github.com/sabpereira/ThinkStats2/blob/master/project1/project1.ipynb).
 
-After calculating the AADRs, I performed a linear regression with the NCHS’s ALEs and the AADRs to create a linear model and check its goodness of fit. The coefficient of determination was .97, validating that by knowing the AADR, we can get a good estimate of the ALE. There was an outlier in the year 2003, but it did not seem to to affect the fit of the model substantially.
+After calculating the AADRs, I performed a linear regression with the NCHS’s ALEs and the AADRs to create a linear model and check its goodness of fit. The coefficient of determination was .97, validating that by knowing the AADR, we can get a good estimate of the ALE. There was an outlier in the year 2003, but it did not seem to affect the fit of the model substantially.
 
 Graphed below are both the ALEs reported by the NCHS and the ones calculated using my regression model. This graph is another validation of my model, as it traces the true ALE very closely.
 
