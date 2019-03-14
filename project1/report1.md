@@ -7,7 +7,7 @@
 
 In recent years, a downward trend in the the Average Life Expectancy in the US has emerged.
 
-!(https://github.com/sabpereira/ThinkStats2/blob/master/project1/output_5_0.png)
+![](https://github.com/sabpereira/ThinkStats2/blob/master/project1/output_5_0.png)
 
 At the same time, the number of deaths by opioid poisoning have risen dramatically. In 1999, there were 6.0 opioid poisoning related deaths for every 100,000 people - by 2017, this had risen to 21.6 deaths per 100,000. What is known as the "Opioid Epidemic" or "Opioid Crisis" was declared a Public Health Emergency by the Trump Administration's Health and Human Services in 2017.
 
