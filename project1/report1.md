@@ -3,16 +3,18 @@
 ### Sabrina Pereira
 
 
-## **Question**
+## **Introduction**
 
 In recent years, a downward trend in the the Average Life Expectancy in the US has emerged.
+
+!(https://github.com/sabpereira/ThinkStats2/blob/master/project1/output_5_0.png)
 
 At the same time, the number of deaths by opioid poisoning have risen dramatically. In 1999, there were 6.0 opioid poisoning related deaths for every 100,000 people - by 2017, this had risen to 21.6 deaths per 100,000. What is known as the "Opioid Epidemic" or "Opioid Crisis" was declared a Public Health Emergency by the Trump Administration's Health and Human Services in 2017.
 
 
-Around 2015, at the same time we start noticing that the number of opioid overdose related deaths start dramatically increasing, the Average Life Expectancy starts to drop.
+Around 2015, at the same time we start noticing that the number of opioid overdose related deaths start dramatically increasing, the Average Life Expectancy begins to drop.
 
-Given this information, it prompts us to ask,
+This prompted me to ask,
 
 _**What is the effect of the increased opioid-related deaths on the Average Life Expectancy in the US?**_
 
@@ -30,12 +32,11 @@ I will also be using the CDC's Multiple Cause of Death Data for the years 1999-2
 In both datasets, populations were taken from the 2000 and 2010 Census data, and intercensal population estimates have been created for all other years.
 
 For more information on the data in the report and how it was organized, please refer to the [project’s notebook](https://github.com/sabpereira/ThinkStats2/blob/master/project1/project1.ipynb). 
- LINKKKKKKKKKKK********************************
 
 
 ### Age-adjusted Death Rate Approach
 
-Recalculating the theoretical life expectancies by removing the effect of the opioid related deaths to quantify how much of the drop in life expectancy is explained by the opioid related deaths would be ideal, but it is a very complicated and involved calculation.
+Recalculating the theoretical life expectancies by removing the effect of the opioid related deaths in order to quantify how much of the drop in life expectancy is explained by the opioid related deaths would be ideal, but it is a very complicated and involved calculation.
 
 Therefore, for simplifications, I will construct a model where I estimate the Average Life Expectancy for a year using the the Age-adjusted Death Rate for the same year. The AADR for the total population is much more easily calculated, and the ALE and the AADR for any given year are closely related - both are summary statistics that are calculated with the age-specific death rates of the population (the death rates for each age group).
 
@@ -57,12 +58,12 @@ Below is the same graph produced above, overlaid with the Zero-Opioid Scenario A
 
 In the graph, we can see in the year 2003 the ALE we would expect to see if there had been no opioid related deaths according to our model is lower than the actual ALE, which is a senseless result. The linear regression that created the model had an outlier in the year 2003, so it explains why our model does not work well in this result.
 
-## **Interpretation**
+## **Conclusion**
 
 So, _**what is the effect of the increased opioid-related deaths on the Average Life Expectancy in the US?**_
 
-From this model, I would expect that the Average Life Expectancy in 2017 would have been approximately 79.06 years if there had been no opioid related deaths, .46 years higher than the observed 78.6. Similarly, in 2016 the ALE we would expect in a in our Zero-Opioid Scenario is 79.07 years, .37 years higher than the observed 78.7.
+According to the model, I would expect that the ALE in 2017 would have been about .46 years higher if there had been no opioid-related deaths (79.06 years, compared to the observed 78.6 years). Similarly, in 2016 the ALE would have been .37 years higher in a Zero-Opioid Scenario (79.07 years compared to the observed 78.7).
 
-Quantities this large in the difference from the theoretical ALE with zero opioid overdoses are not seen in any of the other years. In 1999, the difference between the Zero-Opioid ALE and the observed ALE was .16 years (76.86 years compared to the actual 76.7).
+It is only recently that these deaths have created an observable effect this large. In 1999, the difference between the Zero-Opioid ALE and the observed ALE was .16 years (76.86 years compared to the actual 76.7).
 
-The Average Life Expectancy is a very robust summary statistic that takes information about the overall health of a country to produce one number. For .46 years to be taken off the ALE in 2017 due to opioid overdoses, contributing to the ALE's new downward trend, we see that the increased number of opioid overdoses taking lives prematurely has more than ever negatively impacted the years of life a newborn would be expected to live.
+The Average Life Expectancy is a very robust summary statistic that takes information about the overall health of a country to produce one number. The increased number of opioid overdoses taking lives prematurely has more than ever negatively impacted the years of life a newborn would be expected to live.
